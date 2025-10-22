@@ -1,8 +1,8 @@
-let introduction= 'Dear Mr. Smith, \n' +
-"\tThank you for your time and the \"trouble\" we caused you.\n" +
-  'Next time I hope it is a much \'better\' visit.\n\n' +
-  'Thanks again, \n'+
-  'Mary Jo \:)\'
+var introduction = "introduction\n\t hello 'yummy nummy' \"eating beating\" \\ yummy tummy nummy"; 
 
-document.getElementById("result").innerHTML = introduction;
 
+
+
+
+
+document.getElementById('result').innerHTML = introduction;
